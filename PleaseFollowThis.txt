@@ -1,0 +1,6 @@
+Instead of the API provided by you, I have used the same data to create my own API with some additional fields so please be sure to host it first on port 3001
+
+1. host db.json using command 
+    'json-server --watch db.json --port 3001'
+
+2. npm start
