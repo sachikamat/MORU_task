@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import 'antd/dist/antd.css';
 import './index.css';
-import {  Button, Form, Input, Modal } from 'antd';
+import { Form, Input, Modal } from 'antd';
 import {  EditOutlined } from '@ant-design/icons';
 import axios from 'axios';
 import { URL } from './config';
@@ -34,16 +34,6 @@ const Dialog = ({prevUser}) => {
     favorite:prevUser.favorite
   })
 
-
-  // const [name,setName]=useState(prevUser.name)
-  // const [email,setEmail]=useState(prevUser.email)
-  // const [phone,setPhone]=useState(prevUser.phone)
-  // const [website,setWebsite]=useState(prevUser.website)
-  // const [address,setAddress]=useState(prevUser.address) 
-  // const [company,setCompany]=useState(prevUser.company)
-  // const [username,setUsername]=useState(prevUser.username)
-  // const [avatar,setAvatar]=useState(prevUser.avatar)
-  // const [favorite,setFavorite]=useState(prevUser.favorite)
 
   const [form] = Form.useForm()
   const updateUser = () =>
