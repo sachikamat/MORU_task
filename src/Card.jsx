@@ -13,8 +13,12 @@ const Users = () => {
       setUsers(res.data);
     });
   }, []);
-  console.log(users);
-
+  // console.log(users);
+  useEffect(() => {
+    localStorage.setItem('userLocal', JSON.stringify(users));
+  }, [users]);
+  const userLocal=JSON.parse(localStorage.getItem('userLocal'));
+  console.log(userLocal)
   return (
     <div className="main">
       {

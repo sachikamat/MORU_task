@@ -2,9 +2,9 @@
   "users": [
     {
       "name": "Leanne Grahama",
-      "email": "Sincere@april.biz",
+      "email": "Sincere@april.bi",
       "phone": "1-770-736-8031 x564422",
-      "website": "anasthasia.org",
+      "website": "http://anasthasia.org",
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -22,14 +22,14 @@
       },
       "username": "Bret",
       "avatar": "av1.png",
-      "favorite": false,
+      "favorite": true,
       "id": 1
     },
     {
       "name": "Ervin Howel",
       "email": "Shanna@melissa.tv",
       "phone": "010-692-6593 x09125",
-      "website": "anastasia.net",
+      "website": "http://anastasia.net",
       "address": {
         "street": "Victor Plains",
         "suite": "Suite 879",
@@ -47,14 +47,14 @@
       },
       "username": "Antonette",
       "avatar": "av2.png",
-      "favorite": true,
+      "favorite": false,
       "id": 2
     },
     {
       "name": "Clementine Bauch",
       "email": "Nathan@yesenia.net",
       "phone": "1-463-123-4447",
-      "website": "ramiro.info",
+      "website": "http://ramiro.info",
       "address": {
         "street": "Douglas Extension",
         "suite": "Suite 847",
@@ -79,7 +79,7 @@
       "name": "Patricia Lebsack",
       "email": "Julianne.OConner@kory.org",
       "phone": "493-170-9623 x156",
-      "website": "kale.biz",
+      "website": "http://kale.biz",
       "address": {
         "street": "Hoeger Mall",
         "suite": "Apt. 692",
@@ -104,7 +104,7 @@
       "name": "Chelsey Dietrich",
       "email": "Lucio_Hettinger@annie.ca",
       "phone": "(254)954-1289",
-      "website": "demarco.info",
+      "website": "http://demarco.info",
       "address": {
         "street": "Skiles Walks",
         "suite": "Suite 351",
@@ -143,7 +143,7 @@
         }
       },
       "phone": "1-477-935-8478 x6430",
-      "website": "ola.org",
+      "website": "http://ola.org",
       "company": {
         "name": "Considine-Lockman",
         "catchPhrase": "Synchronised bottom-line interface",
@@ -154,7 +154,7 @@
       "name": "Kurtis Weissnat",
       "email": "Telly.Hoeger@billy.biz",
       "phone": "210.067.6132",
-      "website": "elvis.iom",
+      "website": "http://elvis.io",
       "address": {
         "street": "Rex Trail",
         "suite": "Suite 280",
@@ -193,7 +193,7 @@
         }
       },
       "phone": "586.493.6943 x140",
-      "website": "jacynthe.com",
+      "website": "http://jacynthe.com",
       "company": {
         "name": "Abernathy Group",
         "catchPhrase": "Implemented secondary concept",
@@ -218,7 +218,7 @@
         }
       },
       "phone": "(775)976-6794 x41206",
-      "website": "conrad.com",
+      "website": "http://conrad.com",
       "company": {
         "name": "Yost and Sons",
         "catchPhrase": "Switchable contextually-based project",
@@ -243,7 +243,7 @@
         }
       },
       "phone": "024-648-3804",
-      "website": "ambrose.net",
+      "website": "https://ambrose.net",
       "company": {
         "name": "Hoeger LLC",
         "catchPhrase": "Centralized empowering task-force",
